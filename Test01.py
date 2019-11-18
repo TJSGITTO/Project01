@@ -1,6 +1,3 @@
-number = 6
-
-
 #populate a list of students
 student_names = ["Mark,Katarina,Jessica,Connor,Ian"]
 
